@@ -1,5 +1,14 @@
 # Colab 을 vscode 에서 연결하여 사용하는 방법 (macOS 기준)
 
+## 참고
+https://dacon.io/forum/406050
+
+https://diane-space.tistory.com/359
+
+https://nowgnas.github.io/posts/sshcolab/
+
+---
+
 ## 1. __Colab__ 에서 수행할 내용
 1. Colab 을 열어 새 ipynb 만들기
 
